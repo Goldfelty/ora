@@ -2,7 +2,7 @@ const chat = document.getElementById('chat');
 const form = document.getElementById('chat-form');
 const input = document.getElementById('input');
 
-const API_URL = 'https://1a40-2600-8801-1080-b60-00-16df.ngrok-free.app/api/chat';
+const API_URL = 'https://bb7a-2600-8801-1080-b60-00-16df.ngrok-free';
 
 form.addEventListener('submit', async (e) => {
   e.preventDefault();
