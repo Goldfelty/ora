@@ -1,0 +1,1 @@
+Welcome to the official error reporting GitHub repository for Ora! Simply click on the issues tab and post a new issue. Goldfelty will do our best to respond to your queries as soon as possible. Thank you.
